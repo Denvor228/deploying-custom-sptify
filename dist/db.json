@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Епізод 1",
+        "subtitle": "Знайомство зі спікерами",
+        "video_url": "https://youtu.be/v4qymvKaWaA",
+        "video_time": 5,
+        "description": "1. 1+ безкоштовних методів як знайти собі клієнта."
+    },
+
+    {
+        "title": "Епізод 2",
+        "subtitle": "Хто такий таргетолог",
+        "video_url": "https://youtu.be/FIjXrN8w6_k",
+        "video_time": 6,
+        "description": "1. 2+ безкоштовних методів як знайти собі клієнта."
+    },
+
+    {
+        "title": "Епізод 3",
+        "subtitle": "Пошук перших клієнтів",
+        "video_url": "https://www.youtube.com/watch?v=in8MvEpawYc",
+        "video_time": 7,
+        "description": "1. 3+ безкоштовних методів як знайти собі клієнта."
+    },
+
+    {
+        "title": "Епізод 4",
+        "subtitle": "Налаштування реклами",
+        "video_url": "https://www.youtube.com/watch?v=lxf3M_eWwJY",
+        "video_time": 4,
+        "description": "1. 4+ безкоштовних методів як знайти собі клієнта."
+    },
+
+    {
+        "title": "Епізод 5",
+        "subtitle": "Ведення клієнта",
+        "video_url": "https://www.youtube.com/watch?v=TFj97-f3tjI",
+        "video_time": 3,
+        "description": "1. 5+ безкоштовних методів як знайти собі клієнта."
+    }
+]
